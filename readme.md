@@ -1,4 +1,5 @@
 How start running the project:
+
 	- from TryLottery_JS
 		run start_script.sh
 			- this script will compile the smart contract and will generate the TryLottery.json 
